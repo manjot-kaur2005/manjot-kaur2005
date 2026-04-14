@@ -11,7 +11,9 @@
 <div align="left">
   <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-  <p>
+  
+  
+  <p><br>
     I am a passionate Full Stack Developer fresher with a strong interest in building web applications.  
     I enjoy creating responsive websites and learning new technologies every day.  
     My goal is to grow as a developer and build real-world projects.
